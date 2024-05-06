@@ -10,8 +10,6 @@
 
 3. Clone the repository with the following command: [git clone https://github.com/SOC-J-M/JM-Flask-App.git]
 
-git clone https://github.com/SOC-J-M/JM-Flask-App.git
-
 4. After navigating to the cloned program, open a terminal and install the dependencies needed for this program:
 
      This can be done by running the command: [pip install -r requirements.txt]
@@ -23,4 +21,4 @@ git clone https://github.com/SOC-J-M/JM-Flask-App.git
 
 Once the program and dependencies are all setup, the program is incredibly easy to run with the following command:
 
-flask run --host=0.0.0.0 --port=[any port [default is 5000]]
+     flask run --host=0.0.0.0 --port=[any port [default is 5000]]
