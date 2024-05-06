@@ -4,19 +4,19 @@
 
 # How to setup:
 
-1. Install Git available here: [https://github.com/git-guides/install-git]
+Install Git available here: [https://github.com/git-guides/install-git]
 
-2. Install the latest version of python available here: [https://www.python.org/downloads/]
+Install the latest version of python available here: [https://www.python.org/downloads/]
 
-3. Clone the repository with the following command:
+Clone the repository with the following command:
 
      git clone https://github.com/SOC-J-M/JM-Flask-App.git
 
-4. After navigating to the cloned program, open a terminal and install the dependencies needed for this program:
+After navigating to the cloned program, open a terminal and install the dependencies needed for this program:
 
      pip install -r requirements.txt
 
-5. Once the dependencies are installed, the program is ready to go!
+Once the dependencies are installed, the program is ready to go!
 
 
 # How to use:
