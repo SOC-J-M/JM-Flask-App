@@ -8,11 +8,13 @@
 
 2. Install the latest version of python available here: [https://www.python.org/downloads/]
 
-3. Clone the repository with the following command: [git clone https://github.com/SOC-J-M/JM-Flask-App.git]
+3. Clone the repository with the following command:
+
+     git clone https://github.com/SOC-J-M/JM-Flask-App.git
 
 4. After navigating to the cloned program, open a terminal and install the dependencies needed for this program:
 
-     This can be done by running the command: [pip install -r requirements.txt]
+     pip install -r requirements.txt
 
 5. Once the dependencies are installed, the program is ready to go!
 
