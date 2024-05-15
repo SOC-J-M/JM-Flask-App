@@ -23,4 +23,4 @@ Once the dependencies are installed, the program is ready to go!
 
 Once the program and dependencies are all setup, the program is incredibly easy to run with the following command:
 
-     flask run --host=0.0.0.0 --port=[any port [default is 5000]]
+     flask run --host=0.0.0.0 --port=5001
